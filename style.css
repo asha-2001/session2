@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.outer{
+    width: 700px;
+    height: 1120px;
+    border: 2px solid black;
+    margin: 0px auto;
+}
+
+.outer h1{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+.Border{
+    width: 98%;
+    padding: 5px;
+    background-color:darkgrey;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+ul{
+    font-size: 20px;
+    margin-left: 50px;
+}
+h2{
+    float: right;
+}
